@@ -2,15 +2,12 @@
 
  #### About Me
  
- 👋 Hi there! I'm Rashad Jamal Ansari, a passionate full stack developer with a knack for building dynamic web applications. My journey in web development started with a curiosity for creating visually appealing user interfaces, which eventually led me to dive deep into backend development to bring those interfaces to life.
+  Hi there! I'm Rashad Jamal Ansari, a passionate full stack developer with a knack for building dynamic web applications. My journey in web development started with a curiosity for creating visually appealing user interfaces, which eventually led me to dive deep into backend development to bring those interfaces to life.
  
 
-💼 I'm a Full Stack Web Developer with a passion for building innovative web applications.
+ I'm a Full Stack Web Developer with a passion for building innovative web applications.
 
-📫 How to reach me: [Your Contact Information].
-
-
-🚀 **Technologies & Tools:**
+ **Skills:**
 ```
   Frontend: [List of Frontend Technologies like HTML, CSS, JavaScript, React, etc.]
 ```
