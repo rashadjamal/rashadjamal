@@ -19,32 +19,39 @@
 ⚡ Fun fact: [Something Interesting About Yourself].
 
 🚀 **Technologies & Tools:**
-```Frontend: [List of Frontend Technologies like HTML, CSS, JavaScript, React, etc.]
 ```
-```Backend: [List of Backend Technologies like Node.js, Express, Django, etc.]
+  Frontend: [List of Frontend Technologies like HTML, CSS, JavaScript, React, etc.]
 ```
-```Database: [List of Database Technologies like MongoDB, MySQL, PostgreSQL, etc.]
 ```
-```Other: [Any other technologies or tools you use, like Git, Docker, etc.]
+  Backend: [List of Backend Technologies like Node.js, Express, Django, etc.]
+```
+```
+    Database: [List of Database Technologies like MongoDB, MySQL, PostgreSQL, etc.]
+```
+```
+  Other: [Any other technologies or tools you use, like Git, Docker, etc.]
 ```
 
 📝 **Portfolio:**
-```[Project 1](Link to Project 1) - Description of Project 1.
 ```
-```[Project 2](Link to Project 2) - Description of Project 2.
+    [Project 1](Link to Project 1) - Description of Project 1.
 ```
-```[Project 3](Link to Project 3) - Description of Project 3.
+```
+    [Project 2](Link to Project 2) - Description of Project 2.
+```
+```
+    [Project 3](Link to Project 3) - Description of Project 3.
 ```
 
 🌐 ## Connect with Me:
 ```
-[LinkedIn](Your LinkedIn Profile URL)
+    [LinkedIn](Your LinkedIn Profile URL)
 ```
 ```
-[Twitter](Your Twitter Profile URL)
+    [Twitter](Your Twitter Profile URL)
 ```
 ```
-[Personal Website/Blog](Your Website/Blog URL)
+    [Personal Website/Blog](Your Website/Blog URL)
 ```
 
 📊 **GitHub Stats:**
