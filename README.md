@@ -1,22 +1,13 @@
 #### Hi MD RASHAD JAMAL
 
-👋 Hello, I'm [Your Name]! Welcome to my GitHub profile.
+ ####About Me
+ 👋 Hi there! I'm Rashad Jamal Ansari, a passionate full stack developer with a knack for building dynamic web applications. My journey in web development started with a curiosity for creating visually appealing user interfaces, which eventually led me to dive deep into backend development to bring those interfaces to life.
+ 
 
 💼 I'm a Full Stack Web Developer with a passion for building innovative web applications.
 
-🔭 Currently working on: [Project Name] - [Short Description]
-
-🌱 I’m currently learning [Technologies/Frameworks You're Learning].
-
-👯 I’m looking to collaborate on [Types of Projects You're Interested In].
-
-💬 Ask me about [Your Areas of Expertise or Interests].
-
 📫 How to reach me: [Your Contact Information].
 
-😄 Pronouns: [Your Pronouns].
-
-⚡ Fun fact: [Something Interesting About Yourself].
 
 🚀 **Technologies & Tools:**
 ```
