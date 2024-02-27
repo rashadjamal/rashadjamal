@@ -29,7 +29,7 @@
     Database: [List of Database Technologies like MongoDB, MySQL, PostgreSQL, etc.]
 ```
 ```
-  Other: [Any other technologies or tools you use, like Git, Docker, etc.]
+  Other: [Any other technologies or tools you use, like Git, Docker]
 ```
 
 📝 **Portfolio:**
