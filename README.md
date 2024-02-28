@@ -7,7 +7,7 @@ I'm a passionate software developer with a diverse skill set and a love for buil
 - **Frontend**: HTML, CSS, JavaScript, React.js, Redux
 - **Backend**: Node.js, Express.js
 - **Databases**: SQL, MongoDB
-- **Other**: Java, Git, GitHub, Postman, XAMPP
+- **Other**: Java, Git, GitHub, Postman, 
 
 #### Contact Me
 Feel free to reach out to me via email at rashadjamaansari@gmail.com or connect with me on [LinkedIn](inkedin.com/in/rashad-jamal-ansari-18809b291).
