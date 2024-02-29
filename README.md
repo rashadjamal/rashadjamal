@@ -1,7 +1,7 @@
 ### Hi there, I'm Rashad Jamal Ansari! 👋
 
 #### About Me
-I'm a passionate software developer with a diverse skill set and a love for building innovative web applications. My journey in programming has been exciting, and I've honed my skills in various technologies to create dynamic and responsive solutions. I specialize in frontend development with expertise in HTML, CSS, and JavaScript, along with frameworks like React.js and Redux. On the backend, I'm proficient in Node.js and Express.js, and I have experience working with databases such as SQL and MongoDB. I also have a solid foundation in Java for building robust applications.
+I'm a passionate software developer with a diverse skill set and a love for building innovative web applications. My journey in programming has been exciting, and I've honed my skills in various technologies to create dynamic and responsive solutions. I specialize in frontend development with expertise in HTML, CSS, and JavaScript, along with frameworks like React.js and Redux. On the backend, I'm proficient in Node.js and Express.js, and I have experience working with databases such as SQL and MongoDB. I also have a solid foundation in Java for building robust applications..
 
 #### Skills
 - **Frontend**: HTML, CSS, JavaScript, React.js, Redux
