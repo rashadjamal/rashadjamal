@@ -10,7 +10,7 @@ I'm a passionate software developer with a diverse skill set and a love for buil
 - **Other**: Java, Git, GitHub, Postman, 
 
 #### Contact Me
-Feel free to reach out to me via email at rashadjamaansari@gmail.com or connect with me on [LinkedIn](inkedin.com/in/rashad-jamal-ansari-18809b291).
+Feel free to reach out to me via email at rashadjamaansari@gmail.com or connect with me on [LinkedIn](inkedin.com/in/rashad-jamal-ansari-18809b291)..
 
 #### Let's Connect!
 I'm always eager to collaborate on exciting projects and connect with like-minded individuals. Let's connect on GitHub and explore new opportunities together!
